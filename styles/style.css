@@ -1,4 +1,23 @@
 body{
+    text-align: justify;
     background: bisque;
 }
 
+button{
+    color: rgb(99, 42, 165);
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    border-width: 2cm;
+    margin-right: 25cm;
+    background-color: rgb(60, 223, 141);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(60, 223, 141);
+}
